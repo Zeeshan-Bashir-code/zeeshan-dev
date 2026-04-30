@@ -1,72 +1,97 @@
-<h1 align="center">Hi 👋, I'm Zeeshan Bashir</h1>
-<h3 align="center">Shopify Developer | Frontend Engineer | eCommerce Specialist</h3>
+# Hi, I'm Zeeshan Bashir
+
+**Shopify Developer | Frontend Engineer | eCommerce Specialist**
 
 ---
 
-- 🚀 Professional **Shopify Developer & Frontend Engineer** based in Pakistan  
-- 🛒 Specialized in **Shopify Theme Development, Customization & Liquid**  
-- 💻 Strong expertise in **modern frontend technologies (HTML, CSS, JavaScript, React)**  
-- ⚡ Focused on building **high-performance, conversion-optimized eCommerce experiences**  
+## About Me
+
+I’m a Shopify-focused frontend developer specializing in building **high-performance, conversion-driven eCommerce experiences**.  
+I combine clean code, modern UI, and business-focused thinking to deliver scalable Shopify solutions.
+
+- Shopify Theme Development & Customization  
+- Conversion-Focused UI/UX Implementation  
+- Performance Optimization & Speed Improvements  
+- API Integrations & Custom Functionalities  
 
 ---
 
-### 🌱 Currently
-- Advancing skills in **custom Shopify development & app integrations**  
-- Exploring **performance optimization and scalable frontend architecture**  
+## Current Focus
+
+- Advanced Shopify custom development  
+- Scalable frontend architecture  
+- Performance optimization for eCommerce  
 
 ---
 
-### 💼 Core Expertise
-- 🛍 Shopify Store Development & Customization  
-- 🎨 Pixel-perfect UI implementation (Figma to Code)  
-- ⚡ Speed Optimization & Performance Improvements  
-- 🔗 API Integrations & Custom Functionalities  
+## Tech Stack
+
+### Shopify & eCommerce
+<p>
+<img src="https://cdn.simpleicons.org/shopify" height="40" />
+<img src="https://cdn.simpleicons.org/shopware" height="40" />
+</p>
+
+### Frontend Development
+<p>
+<img src="https://cdn.simpleicons.org/html5" height="40" />
+<img src="https://cdn.simpleicons.org/css3" height="40" />
+<img src="https://cdn.simpleicons.org/javascript" height="40" />
+<img src="https://cdn.simpleicons.org/react" height="40" />
+<img src="https://cdn.simpleicons.org/nextdotjs" height="40" />
+<img src="https://cdn.simpleicons.org/tailwindcss" height="40" />
+<img src="https://cdn.simpleicons.org/bootstrap" height="40" />
+</p>
+
+### Tools & Workflow
+<p>
+<img src="https://cdn.simpleicons.org/git" height="40" />
+<img src="https://cdn.simpleicons.org/github" height="40" />
+<img src="https://cdn.simpleicons.org/figma" height="40" />
+<img src="https://cdn.simpleicons.org/postman" height="40" />
+</p>
+
+### APIs & Integrations
+<p>
+<img src="https://cdn.simpleicons.org/json" height="40" />
+<img src="https://cdn.simpleicons.org/api" height="40" />
+</p>
 
 ---
 
-### 📫 Contact
-- 📧 Email: your@email.com  
-- 🌐 Portfolio: https://yourportfolio.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+## GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ---
 
-### 🤝 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/linkedin" height="30" />
+## Professional Focus
+
+I build Shopify storefronts that are:
+- Fast and optimized for performance  
+- Designed for conversion and user experience  
+- Scalable for growing eCommerce businesses  
+
+---
+
+## Contact & Links
+
+<p>
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://cdn.simpleicons.org/linkedin" height="30" />
 </a>
 <a href="mailto:your@email.com">
-<img align="center" src="https://cdn.simpleicons.org/gmail" height="30" />
+<img src="https://cdn.simpleicons.org/gmail" height="30" />
+</a>
+<a href="https://yourportfolio.com">
+<img src="https://cdn.simpleicons.org/googlechrome" height="30" />
 </a>
 </p>
 
 ---
 
-### 🛠 Languages and Tools
-<p align="left"> 
-<img src="https://cdn.simpleicons.org/shopify" height="40"/>
-<img src="https://cdn.simpleicons.org/html5" height="40"/>
-<img src="https://cdn.simpleicons.org/css3" height="40"/>
-<img src="https://cdn.simpleicons.org/javascript" height="40"/>
-<img src="https://cdn.simpleicons.org/react" height="40"/>
-<img src="https://cdn.simpleicons.org/nextdotjs" height="40"/>
-<img src="https://cdn.simpleicons.org/tailwindcss" height="40"/>
-<img src="https://cdn.simpleicons.org/bootstrap" height="40"/>
-<img src="https://cdn.simpleicons.org/git" height="40"/>
-<img src="https://cdn.simpleicons.org/github" height="40"/>
-<img src="https://cdn.simpleicons.org/figma" height="40"/>
-</p>
+## Profile Views
 
----
-
-### ⚡ GitHub Stats
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🔥 Professional Focus
-I build **Shopify experiences that are not only visually appealing but strategically optimized to drive conversions, improve performance, and scale eCommerce businesses.**
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
