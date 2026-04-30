@@ -6,21 +6,30 @@
 
 ## About Me
 
-I’m a Shopify-focused frontend developer specializing in building **high-performance, conversion-driven eCommerce experiences**.  
-I combine clean code, modern UI, and business-focused thinking to deliver scalable Shopify solutions.
+I specialize in building **high-performance Shopify stores and modern frontend experiences** that are optimized for speed, scalability, and conversions.
 
-- Shopify Theme Development & Customization  
-- Conversion-Focused UI/UX Implementation  
-- Performance Optimization & Speed Improvements  
-- API Integrations & Custom Functionalities  
+I focus on delivering solutions that are not just visually appealing, but also **drive real business results**.
 
 ---
 
-## Current Focus
+## Shopify Expertise
 
-- Advanced Shopify custom development  
-- Scalable frontend architecture  
-- Performance optimization for eCommerce  
+- 🛍 **Shopify Store Setup & Configuration**
+- 🎨 **Custom Theme Development (Liquid)**
+- 🔧 **Theme Customization & Section Development**
+- ⚡ **Shopify App Integration & Custom Features**
+- 🧩 **Shopify App Development (Private / Custom Apps)**
+- 📈 **Conversion Optimization & UX Improvements**
+- 🚀 **Performance Optimization & Speed Enhancements**
+
+---
+
+## Frontend Development
+
+- ⚡ Building modern, responsive, and scalable user interfaces  
+- 🎯 Pixel-perfect UI implementation (Figma to Code)  
+- 🔗 API integrations & dynamic frontend functionality  
+- 📱 Mobile-first and cross-browser optimized development  
 
 ---
 
@@ -29,10 +38,9 @@ I combine clean code, modern UI, and business-focused thinking to deliver scalab
 ### Shopify & eCommerce
 <p>
 <img src="https://cdn.simpleicons.org/shopify" height="40" />
-<img src="https://cdn.simpleicons.org/shopware" height="40" />
 </p>
 
-### Frontend Development
+### Frontend Technologies
 <p>
 <img src="https://cdn.simpleicons.org/html5" height="40" />
 <img src="https://cdn.simpleicons.org/css3" height="40" />
@@ -54,7 +62,7 @@ I combine clean code, modern UI, and business-focused thinking to deliver scalab
 ### APIs & Integrations
 <p>
 <img src="https://cdn.simpleicons.org/json" height="40" />
-<img src="https://cdn.simpleicons.org/api" height="40" />
+<img src="https://cdn.simpleicons.org/graphql" height="40" />
 </p>
 
 ---
@@ -69,10 +77,9 @@ I combine clean code, modern UI, and business-focused thinking to deliver scalab
 
 ## Professional Focus
 
-I build Shopify storefronts that are:
-- Fast and optimized for performance  
-- Designed for conversion and user experience  
-- Scalable for growing eCommerce businesses  
+- Building **conversion-focused Shopify stores**  
+- Developing **scalable and maintainable frontend systems**  
+- Delivering **fast, optimized, and user-centric experiences**  
 
 ---
 
