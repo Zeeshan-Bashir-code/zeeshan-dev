@@ -1,4 +1,8 @@
-<h1 align="center">Zeeshan Bashir</h1>
+<h1 align="center">
+  <img src="https://cdn.simpleicons.org/handshake" height="30"/> 
+  Hi, I'm Zeeshan Bashir
+</h1>
+
 <p align="center">
   Shopify Developer · Frontend Engineer · eCommerce Specialist
 </p>
@@ -7,14 +11,24 @@
 
 ## Profile
 
-Shopify-focused developer with expertise in building high-performance, conversion-driven eCommerce experiences.  
-Specialized in custom theme development, frontend architecture, and scalable Shopify solutions.
+<p>
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="120" style="border-radius:50%;" />
+</p>
+
+Shopify-focused developer with strong expertise in building high-performance eCommerce stores and modern frontend applications.  
+Specialized in custom Shopify solutions, scalable UI architecture, and conversion-focused design.
+
+- Location: Pakistan  
+- Email: your@email.com  
+- Portfolio: https://yourportfolio.com  
+
+<br clear="left"/>
 
 ---
 
 ## Shopify Expertise
 
-- Store Setup & Configuration  
+- Shopify Store Setup & Configuration  
 - Custom Theme Development (Liquid)  
 - Theme Customization & Section Engineering  
 - Shopify App Integration & Custom Features  
@@ -26,66 +40,67 @@ Specialized in custom theme development, frontend architecture, and scalable Sho
 
 ## Frontend Development
 
-- Modern UI development using scalable component-based architecture  
-- Pixel-perfect implementation from Figma and design systems  
-- API-driven dynamic interfaces  
-- Responsive, mobile-first, cross-browser optimized builds  
+- Modern UI development using scalable architecture  
+- Pixel-perfect implementation (Figma to Code)  
+- API integrations & dynamic interfaces  
+- Mobile-first and responsive design systems  
 
 ---
 
-## Technology Stack
+## Tech Stack
 
 <p>
-<img src="https://cdn.simpleicons.org/shopify" height="36" />
-<img src="https://cdn.simpleicons.org/html5" height="36" />
-<img src="https://cdn.simpleicons.org/css3" height="36" />
-<img src="https://cdn.simpleicons.org/javascript" height="36" />
-<img src="https://cdn.simpleicons.org/react" height="36" />
-<img src="https://cdn.simpleicons.org/nextdotjs" height="36" />
-<img src="https://cdn.simpleicons.org/tailwindcss" height="36" />
-<img src="https://cdn.simpleicons.org/bootstrap" height="36" />
-<img src="https://cdn.simpleicons.org/graphql" height="36" />
-<img src="https://cdn.simpleicons.org/git" height="36" />
-<img src="https://cdn.simpleicons.org/github" height="36" />
-<img src="https://cdn.simpleicons.org/figma" height="36" />
+<img src="https://cdn.simpleicons.org/shopify" height="40"/>
+<img src="https://cdn.simpleicons.org/html5" height="40"/>
+<img src="https://cdn.simpleicons.org/css3" height="40"/>
+<img src="https://cdn.simpleicons.org/javascript" height="40"/>
+<img src="https://cdn.simpleicons.org/react" height="40"/>
+<img src="https://cdn.simpleicons.org/nextdotjs" height="40"/>
+<img src="https://cdn.simpleicons.org/tailwindcss" height="40"/>
+<img src="https://cdn.simpleicons.org/bootstrap" height="40"/>
+<img src="https://cdn.simpleicons.org/graphql" height="40"/>
+<img src="https://cdn.simpleicons.org/git" height="40"/>
+<img src="https://cdn.simpleicons.org/github" height="40"/>
+<img src="https://cdn.simpleicons.org/figma" height="40"/>
+<img src="https://cdn.simpleicons.org/postman" height="40"/>
+</p>
+
+---
+
+## Skills Overview
+
+<p align="center">
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Shopify','Frontend','UI/UX','Performance'],datasets:[{data:[40,30,20,10]}]}}&backgroundColor=transparent" />
 </p>
 
 ---
 
 ## Core Skills
 
-Shopify Development  
-████████████████████░░ 90%
 
-Liquid & Theme Architecture  
-███████████████████░░░ 88%
+Shopify Development ████████████████████ 90%
+Liquid & Theme Architecture ███████████████████ 88%
+Frontend Development ████████████████████ 92%
+React / Next.js ████████████████ 80%
+Performance Optimization █████████████████ 85%
+UI Implementation ████████████████████ 90%
+API Integration █████████████████ 85%
 
-Frontend Development (HTML, CSS, JS)  
-████████████████████░░ 92%
-
-React / Next.js  
-█████████████████░░░░░ 80%
-
-Performance Optimization  
-██████████████████░░░░ 85%
-
-UI Implementation (Figma to Code)  
-████████████████████░░ 90%
 
 ---
 
 ## GitHub Analytics
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" />
 </p>
 
 ---
 
 ## Professional Focus
 
-Building Shopify storefronts that are fast, scalable, and optimized for measurable business performance.
+Building fast, scalable, and conversion-driven Shopify experiences that deliver measurable business results.
 
 ---
 
@@ -93,12 +108,18 @@ Building Shopify storefronts that are fast, scalable, and optimized for measurab
 
 <p>
 <a href="https://linkedin.com/in/yourprofile">
-<img src="https://cdn.simpleicons.org/linkedin" height="28" />
+<img src="https://cdn.simpleicons.org/linkedin" height="30"/>
 </a>
 <a href="mailto:your@email.com">
-<img src="https://cdn.simpleicons.org/gmail" height="28" />
+<img src="https://cdn.simpleicons.org/gmail" height="30"/>
 </a>
 <a href="https://yourportfolio.com">
-<img src="https://cdn.simpleicons.org/googlechrome" height="28" />
+<img src="https://cdn.simpleicons.org/googlechrome" height="30"/>
 </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
