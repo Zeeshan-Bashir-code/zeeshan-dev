@@ -1,4 +1,4 @@
-# Hi, I'm Zeeshan Bashir
+# 👋 Hi, I'm Zeeshan Bashir
 
 **Shopify Developer | Frontend Engineer | eCommerce Specialist**
 
@@ -86,13 +86,13 @@ I focus on delivering solutions that are not just visually appealing, but also *
 ## Contact & Links
 
 <p>
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://linkedin.com/in/zeetechsolution/">
 <img src="https://cdn.simpleicons.org/linkedin" height="30" />
 </a>
-<a href="mailto:your@email.com">
+<a href="mailto:zeeshanbashir23412@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail" height="30" />
 </a>
-<a href="https://yourportfolio.com">
+<a href="https://zee-tech-solution.web.app">
 <img src="https://cdn.simpleicons.org/googlechrome" height="30" />
 </a>
 </p>
