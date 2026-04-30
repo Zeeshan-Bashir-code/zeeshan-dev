@@ -1,104 +1,104 @@
-# Hi, I'm Zeeshan Bashir
-
-**Shopify Developer | Frontend Engineer | eCommerce Specialist**
+<h1 align="center">Zeeshan Bashir</h1>
+<p align="center">
+  Shopify Developer · Frontend Engineer · eCommerce Specialist
+</p>
 
 ---
 
-## About Me
+## Profile
 
-I specialize in building **high-performance Shopify stores and modern frontend experiences** that are optimized for speed, scalability, and conversions.
-
-I focus on delivering solutions that are not just visually appealing, but also **drive real business results**.
+Shopify-focused developer with expertise in building high-performance, conversion-driven eCommerce experiences.  
+Specialized in custom theme development, frontend architecture, and scalable Shopify solutions.
 
 ---
 
 ## Shopify Expertise
 
-- 🛍 **Shopify Store Setup & Configuration**
-- 🎨 **Custom Theme Development (Liquid)**
-- 🔧 **Theme Customization & Section Development**
-- ⚡ **Shopify App Integration & Custom Features**
-- 🧩 **Shopify App Development (Private / Custom Apps)**
-- 📈 **Conversion Optimization & UX Improvements**
-- 🚀 **Performance Optimization & Speed Enhancements**
+- Store Setup & Configuration  
+- Custom Theme Development (Liquid)  
+- Theme Customization & Section Engineering  
+- Shopify App Integration & Custom Features  
+- Private / Custom App Development  
+- Performance Optimization & Speed Enhancement  
+- Conversion Optimization & UX Improvements  
 
 ---
 
 ## Frontend Development
 
-- ⚡ Building modern, responsive, and scalable user interfaces  
-- 🎯 Pixel-perfect UI implementation (Figma to Code)  
-- 🔗 API integrations & dynamic frontend functionality  
-- 📱 Mobile-first and cross-browser optimized development  
+- Modern UI development using scalable component-based architecture  
+- Pixel-perfect implementation from Figma and design systems  
+- API-driven dynamic interfaces  
+- Responsive, mobile-first, cross-browser optimized builds  
 
 ---
 
-## Tech Stack
+## Technology Stack
 
-### Shopify & eCommerce
 <p>
-<img src="https://cdn.simpleicons.org/shopify" height="40" />
+<img src="https://cdn.simpleicons.org/shopify" height="36" />
+<img src="https://cdn.simpleicons.org/html5" height="36" />
+<img src="https://cdn.simpleicons.org/css3" height="36" />
+<img src="https://cdn.simpleicons.org/javascript" height="36" />
+<img src="https://cdn.simpleicons.org/react" height="36" />
+<img src="https://cdn.simpleicons.org/nextdotjs" height="36" />
+<img src="https://cdn.simpleicons.org/tailwindcss" height="36" />
+<img src="https://cdn.simpleicons.org/bootstrap" height="36" />
+<img src="https://cdn.simpleicons.org/graphql" height="36" />
+<img src="https://cdn.simpleicons.org/git" height="36" />
+<img src="https://cdn.simpleicons.org/github" height="36" />
+<img src="https://cdn.simpleicons.org/figma" height="36" />
 </p>
 
-### Frontend Technologies
-<p>
-<img src="https://cdn.simpleicons.org/html5" height="40" />
-<img src="https://cdn.simpleicons.org/css3" height="40" />
-<img src="https://cdn.simpleicons.org/javascript" height="40" />
-<img src="https://cdn.simpleicons.org/react" height="40" />
-<img src="https://cdn.simpleicons.org/nextdotjs" height="40" />
-<img src="https://cdn.simpleicons.org/tailwindcss" height="40" />
-<img src="https://cdn.simpleicons.org/bootstrap" height="40" />
-</p>
+---
 
-### Tools & Workflow
-<p>
-<img src="https://cdn.simpleicons.org/git" height="40" />
-<img src="https://cdn.simpleicons.org/github" height="40" />
-<img src="https://cdn.simpleicons.org/figma" height="40" />
-<img src="https://cdn.simpleicons.org/postman" height="40" />
-</p>
+## Core Skills
 
-### APIs & Integrations
-<p>
-<img src="https://cdn.simpleicons.org/json" height="40" />
-<img src="https://cdn.simpleicons.org/graphql" height="40" />
-</p>
+Shopify Development  
+████████████████████░░ 90%
+
+Liquid & Theme Architecture  
+███████████████████░░░ 88%
+
+Frontend Development (HTML, CSS, JS)  
+████████████████████░░ 92%
+
+React / Next.js  
+█████████████████░░░░░ 80%
+
+Performance Optimization  
+██████████████████░░░░ 85%
+
+UI Implementation (Figma to Code)  
+████████████████████░░ 90%
 
 ---
 
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" />
+</p>
 
 ---
 
 ## Professional Focus
 
-- Building **conversion-focused Shopify stores**  
-- Developing **scalable and maintainable frontend systems**  
-- Delivering **fast, optimized, and user-centric experiences**  
+Building Shopify storefronts that are fast, scalable, and optimized for measurable business performance.
 
 ---
 
-## Contact & Links
+## Contact
 
 <p>
 <a href="https://linkedin.com/in/yourprofile">
-<img src="https://cdn.simpleicons.org/linkedin" height="30" />
+<img src="https://cdn.simpleicons.org/linkedin" height="28" />
 </a>
 <a href="mailto:your@email.com">
-<img src="https://cdn.simpleicons.org/gmail" height="30" />
+<img src="https://cdn.simpleicons.org/gmail" height="28" />
 </a>
 <a href="https://yourportfolio.com">
-<img src="https://cdn.simpleicons.org/googlechrome" height="30" />
+<img src="https://cdn.simpleicons.org/googlechrome" height="28" />
 </a>
 </p>
-
----
-
-## Profile Views
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
